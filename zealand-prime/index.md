@@ -10,7 +10,7 @@
 **Biosphere**:   No 
 **Population**:  Millions 
 **Tech Level**:  TL4 
-**Theme**:       Dutch
+**Culture**:     Dutch
 
 ---
 
@@ -34,3 +34,31 @@
 **Notes**: Mostly water with some small islands. No native non-aquatic life. Habitation is a series of fixed floating cities, anchored to the seafloor with tubes where aquatic farms are harvested. There are a few rocky islands that were used for mineral extraction but are now abandoned.
 
 Former leader of the Linear Concord but unable to maintain industrial base due to over extraction on the island mines. This forced to people of Ij to extract minerals from the seafloor (which is more expensive) and the asteroid belt around Nehalennia (which is more hazzardous).
+
+---
+
+## Wijnmaan Base
+
+---
+
+**Type**:      Remote Moon Base 
+**Occupants**: Remnants of a failed colony 
+**Situation**: Desperate for vital supplies
+
+---
+
+**Notes**: Wijnmaan Base is a former colony of Ij on a small moon orbiting the only gas giant in the system. Originally founded to harvest rare molecues from the planet below, it has fallen on hard times since the collapse of Ij.
+
+---
+
+## Project Overstroming
+
+---
+
+**Type**:      Research Base 
+**Occupants**: Experiments that have gotten loose 
+**Situation**: Hideously immoral research
+
+---
+
+**Notes**: Linear Concord research base conducting research into adapting humans to be water breathers. Former subjects are now feral and roaming the flooded corridors of the station.

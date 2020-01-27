@@ -10,7 +10,7 @@
 **Biosphere**:   Human miscible 
 **Population**:  Millions 
 **Tech Level**:  TL3 
-**Theme**:       Greek
+**Culture**:     Greek
 
 ---
 
