@@ -1,6 +1,6 @@
 # Cygnus 76
 
-## Deep Space Station
+## Graecostation
 
 ---
 
@@ -10,21 +10,7 @@
 
 ---
 
-**Notes**: n/a.
-
----
-
-## Research Base
-
----
-
-**Type**:      Research Base 
-**Occupants**: Government researchers 
-**Situation**: Hideously immoral research
-
----
-
-**Notes**: n/a.
+**Notes**: Slave market for rich and powerful run by Graeco Phillips and his modified minions.
 
 ---
 
@@ -38,6 +24,6 @@
 
 ---
 
-**Notes**: n/a.
+**Notes**: Church of Cygnus worships the infinity of the blackhole. Sells fuel to pay for other expenses and to spread their religion.
 
 ---
