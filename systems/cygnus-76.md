@@ -1,6 +1,6 @@
 # Cygnus 76
 
-The blackhole of Cygnus 76 is home to the Church of Cygnus Dei and a slave market.
+The blackhole of Cygnus 76 is home to the [Church of Cygnus Dei](/factions/church-of-cygnus-dei) and a slave market.
 
 ## Graecostation
 
@@ -16,4 +16,4 @@ Graeco Phillips and his genetically modified minions run this slave market for r
 | **Occupants** | Religious missionaries to travelers |
 | **Situation** | Foreign saboteurs are active        |
 
-The Church of Cygnus Dei worships infinity and sees blackholes as holy sites. Pilgrams and devotees come here to stare into the abyss. Sometimes it stares back. The priests and monks here sell fuel to cover their expenses and to provide opportunities to share their faith.
+The [Church of Cygnus Dei](/factions/church-of-cygnus-dei) worships infinity and sees blackholes as holy sites. Pilgrams and devotees come here to stare into the abyss. Sometimes it stares back. The priests and monks here sell fuel to cover their expenses and to provide opportunities to share their faith.
