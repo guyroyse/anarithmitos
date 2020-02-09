@@ -1,2 +1,4 @@
-remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-midnight
 encoding: utf-8
+title: Anarithmitos
+description: A Stars Without Number Campaign
