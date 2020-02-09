@@ -1,5 +1,7 @@
 # Anarithmitos Sector
 
+![alt text](anarithmitos-sector.png){:height="100%" width="100%"}
+
 ## Systems
 
 - [Lotus Pegasi](lotus-pegasi)
