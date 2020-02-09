@@ -4,11 +4,11 @@
 
 ## Systems
 
-- [Cygnus 76](cygnus-76)
-- [Draper Omega](draper-omega)
-- [Lotus Pegasi](lotus-pegasi)
-- [Zealand Prime](zealand-prime)
+- [Cygnus 76](systems\cygnus-76)
+- [Draper Omega](systems\draper-omega)
+- [Lotus Pegasi](systems\lotus-pegasi)
+- [Zealand Prime](systems\zealand-prime)
 
 ## Factions
 
-- Church of Cygnus Dei
+- [Church of Cygnus Dei](factions\church-of-cygnus-dei)
