@@ -10,6 +10,7 @@
 - [Cor Caroli]({{ "/systems/cor-caroli" | absolute_url }})
 - [Cygnus 76]({{ "/systems/cygnus-76" | absolute_url }})
 - [Draper Omega]({{ "/systems/draper-omega" | absolute_url }})
+- [Eta Doradus]({{ "/systems/eta-doradus" | absolute_url }})
 - [Lotus Pegasi]({{ "/systems/lotus-pegasi" | absolute_url }})
 - [Zealand Prime]({{ "/systems/zealand-prime" | absolute_url }})
 

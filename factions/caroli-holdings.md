@@ -2,3 +2,5 @@
 ---
 
 # Caroli Holdings
+
+A corporation
