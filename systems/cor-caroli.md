@@ -1,6 +1,9 @@
+---
+---
+
 # Cor Caroli
 
-A lightly populated but well travelled system has an outpost, some gas mines run by [Caroli Holdings](/factions/caroli-holdings), and a refueling station run by the [Church of Cygnus Dei](/factions/church-of-cygnus-dei).
+A lightly populated but well travelled system has an outpost, some gas mines run by [Caroli Holdings]({{ "/factions/caroli-holdings" | absolute_url }}), and a refueling station run by the [Church of Cygnus Dei]({{ "/factions/church-of-cygnus-dei" | absolute_url }}).
 
 ## Cor Caroli III
 
@@ -12,7 +15,7 @@ A lightly populated but well travelled system has an outpost, some gas mines run
 | **Tech Level**  | TL4+                               |
 | **Culture**     | Dutch                              |
 
-Cor Caroli III is a tumultuous rocky core currounded by water. Frequent earthquakes cause massive and voilent waves on the surface. The only settlement is a small [Linear Concord](/factions/linear-concord) outpost of a few hundred people floating beneath the waves.
+Cor Caroli III is a tumultuous rocky core currounded by water. Frequent earthquakes cause massive and voilent waves on the surface. The only settlement is a small [Linear Concord]({{ "/factions/linear-concord" | absolute_url }}) outpost of a few hundred people floating beneath the waves.
 
 ## Church of Cygnus Dei
 
@@ -20,7 +23,7 @@ Cor Caroli III is a tumultuous rocky core currounded by water. Frequent earthqua
 | **Occupants** | Religious missionaries to travelers |
 | **Situation** | Foreign saboteurs are active        |
 
-Refueling station run by the [Church of Cygnus Dei](/factions/church-of-cygnus-dei). The priests and monks here sell fuel to cover their expenses and to provide opportunities to share their faith.
+Refueling station run by the [Church of Cygnus Dei]({{ "/factions/church-of-cygnus-dei" | absolute_url }}). The priests and monks here sell fuel to cover their expenses and to provide opportunities to share their faith.
 
 ## Cor Caroli VII Gas Mine
 
@@ -28,7 +31,7 @@ Refueling station run by the [Church of Cygnus Dei](/factions/church-of-cygnus-d
 | **Occupants** | Miserable gas-miner slaves or serfs |
 | **Situation** | Pirates secretly fuel there         |
 
-Hydrogen gas mine on Cor Caroli VII owned by [Caroli Holdings](/factions/caroli-holdings). Primary source of fuel for the [Church of Cygnus Dei](/factions/church-of-cygnus-dei).
+Hydrogen gas mine on Cor Caroli VII owned by [Caroli Holdings]({{ "/factions/caroli-holdings" | absolute_url }}). Primary source of fuel for the [Church of Cygnus Dei]({{ "/factions/church-of-cygnus-dei" | absolute_url }}).
 
 ## Cor Caroli IX Gas Mine
 
@@ -36,4 +39,4 @@ Hydrogen gas mine on Cor Caroli VII owned by [Caroli Holdings](/factions/caroli-
 | **Occupants** | Miserable gas-miner slaves or serfs |
 | **Situation** | The workers are in revolt           |
 
-Gas mine on Cor Caroli IX owned by [Caroli Holdings](/factions/caroli-holdings) that extracts complex industrial catalysts.s
+Gas mine on Cor Caroli IX owned by [Caroli Holdings]({{ "/factions/caroli-holdings" | absolute_url }}) that extracts complex industrial catalysts.s
