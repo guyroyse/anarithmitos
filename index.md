@@ -1,3 +1,6 @@
+---
+---
+
 # Anarithmitos Sector
 
 ![alt text](anarithmitos-sector.png){:height="100%" width="100%"}
@@ -12,6 +15,6 @@
 
 ## Factions
 
-- [Caroli Holdings](/factions/caroli-holdings)
+- [Caroli Holdings]({{ "/factions/caroli-holdings" | absolute_url }})
 - [Church of Cygnus Dei](/factions/church-of-cygnus-dei)
 - [Linear Concord](/factions/linear-concord)
